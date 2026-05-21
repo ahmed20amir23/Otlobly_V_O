@@ -40,8 +40,8 @@
 > (Add your screenshots here 👇)
 
 ```
-docs/dashboard.png
-docs/admin.png
+Otlobly_Blueprint_V_O/docs/dashboard.png
+Otlobly_Blueprint_V_O/docs/admin.png
 ```
 
 ---
