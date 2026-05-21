@@ -39,10 +39,12 @@
 
 > (Add your screenshots here 👇)
 
-```
-Otlobly_Blueprint_V_O/docs/dashboard.png
-Otlobly_Blueprint_V_O/docs/admin.png
-```
+### 👤 User Dashboard
+![User Dashboard](Otlobly_Blueprint_V_O/docs/dashboard.png)
+
+### 👑 Admin Dashboard
+![Admin Dashboard](Otlobly_Blueprint_V_O/docs/admin.png)
+
 
 ---
 
